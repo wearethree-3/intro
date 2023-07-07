@@ -19,13 +19,13 @@ video{
   top: 50%;
   left: 50%;
   transform: translate(-50%,-50%);
-   display:flex;  
+  display:flex;  
 }
 .text span{
   text align:center;
   font-weight:800;
   font-size:30px;
-  color: #777;
+  color:black #777;
   transition:1s;
   -webkit-transition:1s;
   -moz-transition:1s;
