@@ -9,8 +9,8 @@ body{
 }
 video{
   position:absolute;
-  top:100%;
-  translate:(100%);
+  top:-5%;
+  translate:(-5%);
 }
   
 .text{
