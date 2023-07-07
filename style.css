@@ -8,24 +8,24 @@ body{
 
 }
 video{
-  position: absolute;
-  top:50%;
+  position:absolute;
+  top:100%;
   translate:(-50%);
 }
   
 .text{
-  width: 80%;
+  width:80%;
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%,-50%);
+  transform:translate(-50%,-50%);
   display:flex;  
 }
 .text span{
   text align:center;
   font-weight:800;
   font-size:30px;
-  color:black #777;
+  color:black#777;
   transition:1s;
   -webkit-transition:1s;
   -moz-transition:1s;
