@@ -1,0 +1,25 @@
+<html lang ="eng">
+<head>
+<meta charset="UTF-8">
+<meta name="viewpoint" content='width=device-width,initial scale=1.0'>
+<title>Text Reveal Effect</title>
+<link rel="stylesheet" href="Text Reveal Effect">
+</head>
+<body>
+
+<div class="cont">
+  <div class="text">
+      <span>W</span>
+      <span>E</span>
+      <span>A</span>
+      <span>R</span>
+      <span>E</span>
+      <span>T</span>
+      <span>H</span>
+      <span>R</span>
+      <span>E</span>
+      <span>E</span>
+  </div>
+    </div>
+</body>
+</html>
