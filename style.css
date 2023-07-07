@@ -10,7 +10,7 @@ container{
   height:100vh;
   background-colour:white;
   display:flex;
-  align items:center;
+  align-items:center;
   justify-content:center;
  
 }
