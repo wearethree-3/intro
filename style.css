@@ -11,6 +11,7 @@ video{
   position: absolute;
   top:50%;
   translate:(-50%);
+}
   
 .text{
   width: 80%;
