@@ -24,20 +24,6 @@
     margin-bottom: 50px;
 }
 
-.content a{
-    font-size: 23px;
-    color: #fff;
-    text-decoration: none;
-    border: 2px solid #fff;
-    padding: 15px 25px;
-    border-radius: 50px;
-    transition: 0.3s;
-}
-
-.content a:hover{
-    background-color: #fff;
-    color: #000;
-}
 
 .background-clip{
     position: absolute;
