@@ -9,8 +9,8 @@ body{
 }
 cont{
   position:absolute;
-  top:-5%;
-  translate:(-5%);
+  top:100%;
+  translate:(100%);
 }
   
 .text{
